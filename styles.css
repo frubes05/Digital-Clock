@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@800&display=swap');
+
+body{
+  background-color: black;
+}
+
+.kontejner{
+  text-align: center;
+  margin: 20% 0;
+}
+
+#vrijeme{
+  font-family: "Orbitron";
+  font-size: 5rem;
+  color:#17D4FE;
+}
